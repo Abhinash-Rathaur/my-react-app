@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MY-APP/static/css/main.be0c93d8.chunk.css",
-    "main.js": "/MY-APP/static/js/main.096fc7e0.chunk.js",
-    "main.js.map": "/MY-APP/static/js/main.096fc7e0.chunk.js.map",
-    "runtime~main.js": "/MY-APP/static/js/runtime~main.b495d531.js",
-    "runtime~main.js.map": "/MY-APP/static/js/runtime~main.b495d531.js.map",
-    "static/js/2.2b166d89.chunk.js": "/MY-APP/static/js/2.2b166d89.chunk.js",
-    "static/js/2.2b166d89.chunk.js.map": "/MY-APP/static/js/2.2b166d89.chunk.js.map",
-    "static/js/3.68d536b4.chunk.js": "/MY-APP/static/js/3.68d536b4.chunk.js",
-    "static/js/3.68d536b4.chunk.js.map": "/MY-APP/static/js/3.68d536b4.chunk.js.map",
-    "index.html": "/MY-APP/index.html",
-    "precache-manifest.8227d0341bdd97c45077e2b188e20e6e.js": "/MY-APP/precache-manifest.8227d0341bdd97c45077e2b188e20e6e.js",
-    "service-worker.js": "/MY-APP/service-worker.js",
-    "static/css/main.be0c93d8.chunk.css.map": "/MY-APP/static/css/main.be0c93d8.chunk.css.map"
+    "main.css": "/MY-REACT-APP/static/css/main.be0c93d8.chunk.css",
+    "main.js": "/MY-REACT-APP/static/js/main.98d450a8.chunk.js",
+    "main.js.map": "/MY-REACT-APP/static/js/main.98d450a8.chunk.js.map",
+    "runtime~main.js": "/MY-REACT-APP/static/js/runtime~main.7f0db4ac.js",
+    "runtime~main.js.map": "/MY-REACT-APP/static/js/runtime~main.7f0db4ac.js.map",
+    "static/js/2.a2b181a3.chunk.js": "/MY-REACT-APP/static/js/2.a2b181a3.chunk.js",
+    "static/js/2.a2b181a3.chunk.js.map": "/MY-REACT-APP/static/js/2.a2b181a3.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/MY-REACT-APP/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/MY-REACT-APP/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/MY-REACT-APP/index.html",
+    "precache-manifest.873d7c69cd2b2a175fbbbbffa31f696d.js": "/MY-REACT-APP/precache-manifest.873d7c69cd2b2a175fbbbbffa31f696d.js",
+    "service-worker.js": "/MY-REACT-APP/service-worker.js",
+    "static/css/main.be0c93d8.chunk.css.map": "/MY-REACT-APP/static/css/main.be0c93d8.chunk.css.map"
   }
 }
